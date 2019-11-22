@@ -1,7 +1,7 @@
 # Research on the Feasibility of Solving Problems in Construction of Sponge City Based on GIS, VR and BIM Combined Technology
 ## Author
-- **Chongzheng Zhao**(Currently pursue master degree related to Computer Science in **the University of Melbourne**)
-- **Lin Lyu**(Currently pursue master degree related to Computer Science and Civil Engineering combined in **the Carnegie Mellon University**)
+- **Chongzheng Zhao** (Currently pursue master degree related to Computer Science in **the University of Melbourne**)
+- **Lin Lyu** (Currently pursue master degree related to Computer Science and Civil Engineering combined in **the Carnegie Mellon University**)
 ## Academic Guidance
 - **Hongyan Li** (**Professor** of Taiyuan University of Technology)
 - **Gaimei Guo** (**Senior Lecturer** of Taiyuan University of Technology)
